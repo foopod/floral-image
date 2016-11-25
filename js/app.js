@@ -26,7 +26,7 @@ function gameLoop() {
             drawTri(x,y,size,size,"right",colorArray[4]);
         } 
     }
-    count+=0.1;
+    count+=0.3;
 }
 
  Math.seededRandom = function(max, min, seed) {
